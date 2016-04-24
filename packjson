@@ -1,0 +1,25 @@
+{
+
+    "name": "lpslib",
+    "title": "lpslib",
+    "description": "nodejs some issue",
+    "version": "0.0.1",
+    "homepage": "",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:liupishui/lpslib.git"
+    },
+    "keywords": [
+        "lpslib",
+        "lpslib"
+    ],
+    "bugs": {
+        "url": "https://github.com/liupis/lpslib/issues"
+    },
+    "dependencies": {
+    }
+}
