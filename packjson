@@ -3,7 +3,7 @@
     "name": "lpslib",
     "title": "lpslib",
     "description": "lpslib",
-    "version": "1.0.0",
+    "version": "1.2.3",
     "homepage": "https://github.com/liupishui/lpslib",
     "author": {
         "name": "jingshuiyuan",
@@ -14,11 +14,11 @@
         "url": "https://github.com/liupishui/lpslib.git"
     },
     "keywords": [
-        "msgbox",
-        "messagebox"
+        "lpslpslib",
+        "liupishui slider"
     ],
     "bugs": {
-        "url": "https://github.com/liupis/lpslib/issues"
+        "url": "https://github.com/liupishui/anslide/issues"
     },
     "dependencies": {
         "grunt": "~0.4.1",
