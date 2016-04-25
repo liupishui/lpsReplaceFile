@@ -1,23 +1,23 @@
 {
-    "name": "lpslib",
-    "title": "lpslib",
-    "description": "lpslib",
-    "version": "1.2.3",
-    "homepage": "https://github.com/liupishui/lpslib",
+    "name": "lpsReplaceFile",
+    "title": "lpsReplaceFile",
+    "description": "lpsReplaceFile",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liupishui/lpsReplaceFile",
     "author": {
         "name": "jingshuiyuan",
         "url": "http://www.lpsjj.cn/blog/"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/liupishui/lpslib.git"
+        "url": "https://github.com/liupishui/lpsReplaceFile.git"
     },
     "keywords": [
-        "lpslib",
+        "lpsReplaceFile",
         "liupishui"
     ],
     "bugs": {
-        "url": "https://github.com/liupishui/lpslib/issues"
+        "url": "https://github.com/liupishui/lpsReplaceFile/issues"
     },
     "dependencies": {
     },
