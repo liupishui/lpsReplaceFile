@@ -1,31 +1,26 @@
 {
-  "name": "lpslib",
-  "version": "2.1.0",
-  "description": "Generate lpslib for your current project's README",
-  "keywords": [
-    "lpslib"
-  ],
-  "repository": "liupishui/lpslib",
-  "license": "MIT",
-  "author": "liupishui(http://www.lpsjj.cn/blog/)",
-  "bin": {
-    "lpslib": "bin/cmd.js"
-  },
-  "main": "index.js",
-  "files": [
-    "index.js",
-    "README.md"
-  ],
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "tape test/index.js"
-  },
-  "dependencies": {
-
-  },
-  "devDependencies": {
-
-  }
+    "name": "lpslib",
+    "title": "lpslib",
+    "description": "lpslib",
+    "version": "1.2.3",
+    "homepage": "https://github.com/liupishui/lpslib",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liupishui/lpslib.git"
+    },
+    "keywords": [
+        "lpslib",
+        "liupishui"
+    ],
+    "bugs": {
+        "url": "https://github.com/liupishui/lpslib/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
 }
